@@ -5,4 +5,4 @@ alt
 ="w3schools Logo">
 </body>
 </html>
-(choti photo ke sath rext)
+(choti photo ke sath Text)
